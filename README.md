@@ -88,9 +88,9 @@ The switching is seamless; it doesn't pause audio or interrupt playback, so you 
 - **green:** the clip is playing
 - **green blinking:** the clip is triggered and it will be played
 
-# !COMING SOON! If you'd rather not build it yourself, you can order it on Tindie
+# If you'd rather not build it yourself, you can order it on Tindie
 
-
+https://www.tindie.com/products/beatrmatrix/ableton-controller-mk2-beatrmatrix/
 
 - Fully Assembled
 - DIY Kit
