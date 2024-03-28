@@ -88,6 +88,21 @@ The switching is seamless; it doesn't pause audio or interrupt playback, so you 
 - **green:** the clip is playing
 - **green blinking:** the clip is triggered and it will be played
 
+# !COMING SOON! If you'd rather not build it yourself, you can order it on Tindie
+
+
+
+- Fully Assembled
+- DIY Kit
+- Just the PCB board
+
+
+# Support the project
+
+| Paypal |
+| ---- |
+| [<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" width="100%">](https://www.paypal.com/donate/?hosted_button_id=DY3BFYHC33TGG) |
+
 
 
 
