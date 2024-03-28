@@ -27,6 +27,7 @@ Pot "A" is mapped to note velocity by default, but you can change that too.
 There are 3 buttons on the top of the device labeled 'E', 'S' and 'P'. 
 They are used to switch between the 3 modes: editing (sequencer), loop length, and clip launching. 
 The switching is seamless; it doesn't pause audio or interrupt playback, so you can easily switch between modes during a live act too.
+
 <img src= "https://github.com/beatrmatrix/beatrmatrix-mk2-arduino-based-ableton-controller/assets/155435444/fb8d0412-1bf6-4dd9-a1ff-0b286fec35d8" width="60%" height="60%" >
 
 ### Editing/Sequencer
