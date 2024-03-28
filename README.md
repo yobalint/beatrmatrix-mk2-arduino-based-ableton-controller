@@ -1,3 +1,27 @@
+# beatrmatrix mk2 Ableton controller
+An open source Arduino based controller for Ableton Live.
+
+# Functions
+- 16 step sequencer with velocity control
+- adding notes directly to Ableton's piano roll/sequencer
+- modifying the loop length (start and end too)
+- Ableton session view clip launching
+- 3 mapable potentiometer to control anything Ableton
+- visual feedback through smd RGB (ws2812b) LEDs, indicating MIDI notes, velocity, step position, loop length and clips in session view
+
+# Communication
+The beatrmatrix device is simply a controller for the Max patcher (serial communication). All the "magic" happens within the patcher. The max4live patcher uses the live API to communicate with Ableton Live.
+
+![magic](https://github.com/beatrmatrix/beatrmatrix-mk2-arduino-based-ableton-controller/assets/155435444/d274d9e0-a9db-453c-94d9-ae97a6e90e6b)
+
+# Parts
+
+-Arduino Nano
+-the PCB, with the smd soldered ws2812 LEDs
+-19x 6x6x5mm tact push button 
+-3 10k potentiometers 
+
+ 
 # Getting started guide
 
 ## Connection
