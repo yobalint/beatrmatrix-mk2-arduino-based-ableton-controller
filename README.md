@@ -1,6 +1,11 @@
 # beatrmatrix mk2 Ableton controller
 An open source Arduino based controller for Ableton Live.
 
+# Demo video
+[<img src="https://github.com/beatrmatrix/beatrmatrix-mk2-arduino-based-ableton-controller/assets/155435444/e19391db-df53-403e-84cf-aac1c505682f" width="50%">](https://www.youtube.com/watch?v=iRK3hSDb8FA)
+
+
+
 # Functions
 - 16 step sequencer with velocity control
 - adding notes directly to Ableton's piano roll/sequencer
